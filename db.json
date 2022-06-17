@@ -1,0 +1,39 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "first_name": "abdul",
+      "last_name": "kabugu"
+    },
+    {
+      "id": 2,
+      "first_name": "miraji",
+      "last_name": "yunusu"
+    },
+    {
+      "id": 1,
+      "first_name": "ayamu",
+      "last_name": "byandara"
+    },
+    {
+      "heroName": "abdul bastu",
+      "heroLastName": "kikojozi",
+      "id": 3
+    },
+    {
+      "heroName": "abdul bastu",
+      "heroLastName": "kikojozi",
+      "id": 4
+    },
+    {
+      "first_name": "kamuru",
+      "last_name": "ddeeen",
+      "id": 5
+    },
+    {
+      "first_name": "",
+      "last_name": "",
+      "id": 6
+    }
+  ]
+}

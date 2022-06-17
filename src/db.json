@@ -1,0 +1,35 @@
+{
+    "superheroes" : [
+        {
+            "id": 1,
+            "first_name": "abdul",
+            "last_name": "kabugu"
+        },
+
+        {
+            "id": 2,
+            "first_name": "miraji",
+            "last_name": "sadara"
+        },
+        {
+            "id": 1,
+            "first_name": "ayamu",
+            "last_name": "yunusu"
+        }
+    ],
+
+    "friends": [
+        {
+            "id" : 1,
+            "name" : "jamaal"
+        },
+        {
+            "id" : 2,
+            "name" : "paul"
+        },
+        {
+            "id" : 3,
+            "name" : "swiddeeq"
+        }
+    ]
+}
